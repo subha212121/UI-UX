@@ -2,6 +2,5 @@
 build/
 .idea/
 .vscode/
-*.iml
 android/.gradle/
 ios/Flutter/ephemeral/
