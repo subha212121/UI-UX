@@ -1,24 +1,7 @@
-# Flutter/Dart
 .dart_tool/
 build/
-.packages
-.pub-cache/
-.pub/
-
-# Android
-android/.gradle/
-android/local.properties
-android/app/build/
-
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/ephemeral/
-
-# IDE
 .idea/
 .vscode/
 *.iml
-
-# Misc
-*.log
+android/.gradle/
+ios/Flutter/ephemeral/
